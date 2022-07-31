@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Log',
+    name='log',
     version='1.0.0',
     url='https://github.com/shaperilio/logging.git',
     author='Emilio Graff',
