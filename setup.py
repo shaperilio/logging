@@ -9,5 +9,5 @@ setup(
     author_email='1@emil.io',
     description="Emilio's logging setup",
     packages=['log'],
-    # install_requires=['colorama'],
+    install_requires=['colorama'],
 )
